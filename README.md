@@ -1,2 +1,3 @@
 # minicurso-etal
-CRUD básico com Laravel
+CRUD básico com Laravel 
+Teste
