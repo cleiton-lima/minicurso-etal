@@ -15,8 +15,9 @@ class PessoaController extends Controller
      */
     public function index()
     {
-        $pessoas = Pessoa::all();
-        return view('index', compact('pessoas')); 
+        // $pessoas = Pessoa::all();
+        // return view('index', compact('pessoas')); 
+        return view('welcome');
     }
 
     /**
